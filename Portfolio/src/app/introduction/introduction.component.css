@@ -1,0 +1,16 @@
+.intro_container {
+    height: 50vh;
+    background-color: black;
+    padding: 50px;
+}
+
+h1 {
+    color: #fff;
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #f2f2f2;
+    font-size: 80px;
+}
